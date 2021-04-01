@@ -189,7 +189,7 @@ public class FenetrePrincipale extends JFrame{
         spane = new JScrollPane(table);
 
         onglet5.add(spane);
-        onglets.addTab("TEST 2017", onglet5);
+        onglets.addTab("Pourcentage d'évolution", onglet5);
 		
 		
 		
